@@ -1,0 +1,114 @@
+.box-preto-logo {
+    background-color: black; /* Define a cor de fundo como preto */
+    color: white; /* Define a cor do texto como branco */
+    padding: 20px; /* Adiciona um espaçamento interno */
+    text-align: left; /* Alinha o texto à esquerda */
+}
+
+.box-titulo {
+    background-color: black; /* Define a cor de fundo como preto */
+    color: white; /* Define a cor do texto como branco */
+   display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 45px;
+   
+}
+
+
+.treinos-img {
+    width: 590px; /* Reduz o tamanho da imagem */
+    position: absolute; /* Permite posicionar a imagem de forma absoluta em relação ao contêiner pai */
+    left: 4%; /* Posiciona a imagem 10 pixels do lado direito do contêiner pai */
+    top: 50%; /* Posiciona a imagem no meio vertical */
+    transform: translateY(35%); /* Move a imagem para cima metade da sua altura */
+    top: 30%;
+    z-index: 1; /* Garante que a imagem esteja acima do formulário */
+}
+
+.box-titulo h2{
+    font-size: 30px;
+    text-align: left;
+    font-family:Arial, sans-serif;
+    
+}
+
+
+.box-titulo h3{
+    font-size: 19px;
+    text-align: left;
+    font-family: Arial, sans-serif;
+    
+}
+
+
+.box-preto-logo h2 {
+    margin-left: 20px; /* Adicione uma margem à esquerda para mover o texto para a esquerda */
+    font-family: 'Gloritna', Arial, sans-serif;
+    background: -webkit-linear-gradient(left, #412997, #ff0000); /* Define um degradê horizontal de laranja para vermelho */
+    -webkit-background-clip: text; /* Aplica o degradê apenas ao texto */
+    -webkit-text-fill-color: transparent;
+    font-size: 39px;
+}
+
+
+
+
+
+html, body {
+    height: 100%; /* Define a altura do corpo como 100% da altura da tela */
+    margin: 0; /* Remove as margens padrão do corpo */
+}
+
+.box-preto {
+    background-color: black; /* Define a cor de fundo como preto */
+    display: flex; /* Usa Flexbox */
+    justify-content: space-between; /* Centraliza o conteúdo horizontalmente */
+    align-items: flex-start; /* Alinha o conteúdo ao topo */
+    width: 100%; /* Define a largura como 100% da largura da tela */
+    height: auto; /* Define a altura automaticamente */
+    padding-bottom: 20px; /* Adiciona espaço abaixo do conteúdo */
+    position: relative; /* Adiciona posição relativa para os elementos filhos absolutos */
+}
+
+
+
+.formulario {
+    color: white;
+    width: calc(50% - 10px); /* Define a largura do formulário */
+    padding: 20px;
+    margin-top: 790px;
+    left: 4%;
+}
+
+.campo {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%; /* Define a largura dos campos de entrada */
+    padding: 5px;
+    font-size: 16px;
+    color: white; /* Define a cor do texto como branco */
+    background-color: transparent; /* Define o fundo dos campos de entrada como transparente */
+    border: 1px solid white; /* Adiciona uma borda branca aos campos de entrada */
+}
+
+button {
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ddd;
+}
