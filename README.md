@@ -1,6 +1,6 @@
 # Projeto de Landing Page - Personal Trainer FitPro
 
-Este é o projeto de landing page desenvolvido como parte da disciplina de Web Standards, orientada pelo professor Bruno de Oliveira, na Faculdade Senac - Análise e Desenvolvimento de Sistemas.
+Este é o projeto de landing page desenvolvido como parte da disciplina de Web Standards, orientada pelo professor Bruno de Oliveira, Faculdade Senac - Análise e Desenvolvimento de Sistemas.
 
 ## Descrição do Projeto
 
