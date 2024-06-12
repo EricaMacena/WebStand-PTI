@@ -1,21 +1,36 @@
-# Landing Page para Personal Trainer
+# Projeto de Landing Page - Personal Trainer FitPro
 
-Olá! Este é o repositório do projeto de landing page que desenvolvi como parte da disciplina de Web Standards, orientada pelo professor Bruno de Oliveira.
+Este é o projeto de landing page desenvolvido como parte da disciplina de Web Standards, orientada pelo professor Bruno de Oliveira, na Faculdade Senac - Análise e Desenvolvimento de Sistemas.
 
+## Descrição do Projeto
 
-## Descrição da Atividade
-Como parte desta atividade, escolhi o ramo de Personal Trainer para criar uma landing page fictícia como projeto individual. Meu objetivo, foi desenvolver uma página web que destaque os serviços oferecidos por um Personal Trainer.
-
-
-## Tecnologias Utilizadas
-
-- 👩‍💻 HTML
-- 🎨 CSS
+O projeto consiste em uma landing page para um serviço fictício de Personal Trainer, chamado "FitPro". A página foi desenvolvida utilizando HTML para estruturação e marcação do conteúdo, e CSS para estilização e design.
 
 
 
-## Visualize o Projeto
-Quer conferir como ficou a landing page ? Acesse [este link](https://ericamacena.github.io/WebStand-PTI/) e explore a página no seu navegador.
+## Funcionalidades
+
+- 📝 **Apresentação do serviço "FitPro"**: Informações detalhadas sobre os programas de treinamento oferecidos.
+- 🌟 **Seção de Depoimentos**: Depoimentos de clientes fictícios para aumentar a credibilidade do serviço.
+- ✉️ **Formulário de Contato**: Para os visitantes interessados em obter mais informações ou agendar uma consulta.
+- 📱 **Design Responsivo**: Garantindo uma experiência consistente em diferentes dispositivos e tamanhos de tela.
+
+---
+
+## Como Visualizar o Projeto
+
+O projeto está hospedado no GitHub Pages e pode ser acessado [aqui](https://ericamacena.github.io/ads-landing-personal-trainer-html-css/).
+
+Caso queira visualizar localmente:
+
+1. Clone o repositório: `git clone https://github.com/ericamacena/ads-landing-personal-trainer-html-css.git`
+2. Abra o arquivo `index.html` em seu navegador preferido.
+
+---
+
+## Autor
+
+Criado com ❤️ por Erica
 
 
 
